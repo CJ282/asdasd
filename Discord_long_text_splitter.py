@@ -39,7 +39,7 @@ import tkinter.font
 
 # Constants
 
-messageMaxLength = 2000
+messageMaxLength = 1900
 newlineSeparator = "\n"
 
 previewLength = 50
